@@ -1,4 +1,4 @@
-# Sistem Penjualan Cafe - UTS Pemrograman Web
+# UTS Pemrograman Web
 
 **Nama:** Ade Anang Kurniawan  
 **NIM:** 24090106  
@@ -28,7 +28,7 @@ Tujuan utama aplikasi ini adalah mempermudah admin dalam melakukan pengecekan st
   - Total pendapatan
 - User dapat melakukan **Logout** melalui icon di bagian bawah.
 - User dapat klik **Lihat selengkpnya** melalui icon di bagian bawah.
-# **3. Halaman Produk** (Icon Kotak 4)
+# **3. Halaman Produk**
 - Menampilkan daftar produk café.
 - User dapat melakukan:
   - **Edit produk**
